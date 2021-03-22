@@ -1,6 +1,7 @@
 
 | Library Used | Description  |
 | ------ | ------ |
+|Python 3.8.5 | Python main programming language |
 | Django==2.2.17 | Used Django LTS for as web framework in project|
 | pandas | Used pandas for processing data. |
 | djangorestframework==3.12.2 | Django restframework for REST API. |
